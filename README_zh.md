@@ -12,32 +12,32 @@
 
 > 蓝桥杯代码
 
-### 🏠 [主页](https://runlin-wang.github.io/lanqiao)
+### 🏠 [主页](https://wangrunlin.github.io/lanqiao)
 
-### ✨ [演示](https://runlin-wang.github.io/lanqiao)
+### ✨ [演示](https://wangrunlin.github.io/lanqiao)
 
 ## 下载
 
 ```sh
-git clone https://github.com/runlin-wang/lanqiao.git
+git clone https://github.com/wangrunlin/lanqiao.git
 ```
 
 ## 使用
 
-[源代码](https://github.com/runlin-wang/lanqiao)  
+[源代码](https://github.com/wangrunlin/lanqiao)  
 这些是源代码，你可以构建和运行
 
 ## 作者
 
 👤 **leo**
 
-* 网站: runlin.live
+* 网站: wangrunlin.com
 * 推特: [@Leo36363824](https://twitter.com/Leo36363824)
-* Github: [@runlin-wang](https://github.com/runlin-wang)
+* Github: [@wangrunlin](https://github.com/wangrunlin)
 
 ## 🤝 贡献
 
-欢迎贡献，问题和特征要求！<br />随时检查 [问题页面](https://github.com/runlin-wang/lanqiao/issues) 。
+欢迎贡献，问题和特征要求！<br />随时检查 [问题页面](https://github.com/wangrunlin/lanqiao/issues) 。
 
 ## 显示您的支持
 
@@ -45,7 +45,7 @@ git clone https://github.com/runlin-wang/lanqiao.git
 
 ## 📝 许可协议
 
-Copyright © 2021 [leo](https://github.com/runlin-wang).<br />
+Copyright © 2021 [leo](https://github.com/wangrunlin).<br />
 这个项目是 [MIT](LICENSE) 许可。
 
 ***
